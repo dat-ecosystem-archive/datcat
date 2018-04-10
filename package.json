@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "module to simplify streaming a remote hypercore feed and catting the results",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "datcat": "cli.js"
   },
   "repository": {
     "type": "git",
