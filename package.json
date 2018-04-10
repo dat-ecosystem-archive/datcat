@@ -1,0 +1,31 @@
+{
+  "name": "hypercat",
+  "version": "1.0.0",
+  "description": "module to simplify streaming a remote hypercore feed and catting the results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datproject/hypercat.git"
+  },
+  "keywords": [],
+  "author": "max ogden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datproject/hypercat/issues"
+  },
+  "homepage": "https://github.com/datproject/hypercat#readme",
+  "dependencies": {
+    "append-tree": "^2.4.1",
+    "datland-swarm-defaults": "^1.0.2",
+    "discovery-swarm": "^5.1.1",
+    "duplexify": "^3.5.4",
+    "hypercore": "^6.13.0",
+    "hyperdrive": "^9.12.3",
+    "pump": "^3.0.0",
+    "random-access-memory": "^2.4.0",
+    "through2": "^2.0.3"
+  }
+}
