@@ -1,6 +1,6 @@
 {
   "name": "datcat",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "module to simplify streaming a remote hypercore feed and catting the results",
   "main": "index.js",
   "bin": {
