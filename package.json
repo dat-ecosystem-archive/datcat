@@ -19,7 +19,7 @@
   "homepage": "https://github.com/datproject/datcat#readme",
   "dependencies": {
     "append-tree": "^2.4.1",
-    "datland-swarm-defaults": "^1.0.2",
+    "dat-swarm-defaults": "^1.0.1",
     "discovery-swarm": "^5.1.1",
     "duplexify": "^3.5.4",
     "hypercore": "^6.13.0",
